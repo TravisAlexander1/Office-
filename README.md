@@ -1,1 +1,2 @@
-# Office-
+# Officer-off-for-the-Office-Game
+Officer must reach his office by eating food and escaping from obstacles...
